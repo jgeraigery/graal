@@ -29,7 +29,7 @@ GEM
       fiber-annotation
       fiber-local (~> 1.1)
       json
-    csv (3.3.5)
+    csv (3.3.6)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -44,14 +44,14 @@ GEM
       fiber-storage
     fiber-storage (1.0.1)
     forwardable-extended (2.6.0)
-    google-protobuf (4.35.1-arm64-darwin)
+    google-protobuf (4.36.1-arm64-darwin)
       bigdecimal
       rake (~> 13.3)
-    google-protobuf (4.35.1-x86_64-linux-gnu)
+    google-protobuf (4.36.1-x86_64-linux-gnu)
       bigdecimal
       rake (~> 13.3)
     hashery (2.1.2)
-    html-proofer (5.2.1)
+    html-proofer (5.2.2)
       addressable (~> 2.3)
       async (~> 2.1)
       benchmark (~> 0.5)
@@ -89,7 +89,7 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-relative-links (0.7.0)
+    jekyll-relative-links (0.8.0)
       jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (3.1.0)
       sass-embedded (~> 1.75)
@@ -97,7 +97,7 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.21.1)
+    json (2.21.2)
     kramdown (2.5.2)
       rexml (>= 3.4.4)
     kramdown-parser-gfm (1.1.0)
@@ -144,9 +144,9 @@ GEM
     rouge (4.7.0)
     ruby-rc4 (0.1.5)
     safe_yaml (1.0.5)
-    sass-embedded (1.101.6-arm64-darwin)
+    sass-embedded (1.104.0-arm64-darwin)
       google-protobuf (~> 4.31)
-    sass-embedded (1.101.6-x86_64-linux-gnu)
+    sass-embedded (1.104.0-x86_64-linux-gnu)
       google-protobuf (~> 4.31)
     siteleaf (2.3.0)
       httparty (>= 0.16.0)
@@ -162,7 +162,7 @@ GEM
     unicode-display_width (2.6.0)
     webrick (1.9.2)
     yell (2.2.2)
-    zeitwerk (2.8.2)
+    zeitwerk (2.8.3)
 
 PLATFORMS
   arm64-darwin-24
