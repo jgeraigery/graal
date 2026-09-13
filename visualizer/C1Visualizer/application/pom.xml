@@ -1184,7 +1184,7 @@
             </plugin>
             <plugin>
                 <artifactId>maven-resources-plugin</artifactId>
-                <version>2.6</version>
+                <version>2.7</version>
                 <executions>
                     <execution>
                         <id>install-mac-icon</id>
@@ -1211,7 +1211,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-antrun-plugin</artifactId>
-                <version>1.6</version>
+                <version>1.8</version>
                 <executions>
                     <execution>
                         <id>zip-artifacts</id>

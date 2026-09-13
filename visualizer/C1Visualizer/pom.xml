@@ -49,7 +49,7 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-resources-plugin</artifactId>
-                    <version>3.3.1</version>
+                    <version>3.5.0</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.netbeans.utilities</groupId>
@@ -138,7 +138,7 @@
         <netbeans.version>RELEASE260</netbeans.version>
         <swinglayouts.version>1.0.2</swinglayouts.version>
         <nbmmvnplugin.version>4.8</nbmmvnplugin.version>
-        <mvncompilerplugin.version>3.10.1</mvncompilerplugin.version>
+        <mvncompilerplugin.version>3.16.0</mvncompilerplugin.version>
         <mvnjarplugin.version>3.2.2</mvnjarplugin.version>
         <mvnenforcerplugin.version>3.3.0</mvnenforcerplugin.version>
         <junit.version>4.13.2</junit.version>
